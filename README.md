@@ -1,3 +1,7 @@
+Проект содержит страницы: меню с карточками товаров (с возможностью добавления в корзину), корзины выбранных товаров (с возможностью удаления товаров).
+В работе использован концепт функциональных компонентов и react-хуков. Приложение построено по архитектуре Redux.
+Переход между страницами происходит в формате single-page application (SPA), для чего используется библиотека react-router-dom.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
